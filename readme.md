@@ -1,4 +1,4 @@
-# qo0-base
+# fl0whaxx - CS:GO training software (qo0-base)
 
 [![AppVeyor](https://img.shields.io/appveyor/build/rollraw/qo0-base?color=blueviolet&logo=appveyor&logoColor=white&logoWidth=10)](https://ci.appveyor.com/project/rollraw/qo0-base)
 [![GitHub issues](https://img.shields.io/github/issues/rollraw/qo0-base?color=blueviolet)](https://github.com/rollraw/qo0-base/issues)
